@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.joshthedev.campus360",
+    "sha256_cert_fingerprints":
+    ["AE:E3:BD:57:ED:2B:C1:DA:F9:37:DD:E5:24:CF:04:CD:F1:0D:8E:A7:8C:32:34:0F:85:DD:E1:13:99:44:13:CA"]
+  }
+}]
